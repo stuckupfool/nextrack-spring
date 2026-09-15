@@ -1,0 +1,103 @@
+1788550615613:help
+1788550630522:add
+1788553487437:quit
+1788558541489:help
+1788558544508:gui
+1788558694012:help
+1788558718989:gui
+1789342646516:cd /Users/poop/Documents/nextrack ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-25.jdk/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:61594 @/var/folders/m4/k7gm01vx36xd0287m4rqvp3w0000gn/T/cp_azurz20bbi2s4v1pos1xo79gk.argfile com.interviews.nextrack.NextrackApplication
+1789342652755:gui
+1789343102662:cd /Users/poop/Documents/nextrack ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-25.jdk/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:61662 @/var/folders/m4/k7gm01vx36xd0287m4rqvp3w0000gn/T/cp_azurz20bbi2s4v1pos1xo79gk.argfile com.interviews.nextrack.NextrackApplication
+1789343107642:gui
+1789349443967:cd /Users/poop/Documents/nextrack ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-25.jdk/Contents/Home/bin/java @/var/folders/m4/k7gm01vx36xd0287m4rqvp3w0000gn/T/cp_azurz20bbi2s4v1pos1xo79gk.argfile com.interviews.nextrack.NextrackApplication
+1789349448054:gui
+1789349716083:cd /Users/poop/Documents/nextrack ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-25.jdk/Contents/Home/bin/java @/var/folders/m4/k7gm01vx36xd0287m4rqvp3w0000gn/T/cp_azurz20bbi2s4v1pos1xo79gk.argfile com.interviews.nextrack.NextrackApplication
+1789349723841:gui
+1789354788083:cd /Users/poop/Documents/nextrack ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-25.jdk/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:62620 @/var/folders/m4/k7gm01vx36xd0287m4rqvp3w0000gn/T/cp_azurz20bbi2s4v1pos1xo79gk.argfile com.interviews.nextrack.NextrackApplication
+1789354806122:gui
+1789356650872:cd /Users/poop/Documents/nextrack ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-25.jdk/Contents/Home/bin/java @/var/folders/m4/k7gm01vx36xd0287m4rqvp3w0000gn/T/cp_azurz20bbi2s4v1pos1xo79gk.argfile com.interviews.nextrack.NextrackApplication
+1789356662493:gui
+1789358645620:cd /Users/poop/Documents/nextrack ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-25.jdk/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:63101 @/var/folders/m4/k7gm01vx36xd0287m4rqvp3w0000gn/T/cp_azurz20bbi2s4v1pos1xo79gk.argfile com.interviews.nextrack.NextrackApplication
+1789358659759:gui
+1789359220193:cd /Users/poop/Documents/nextrack ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-25.jdk/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:63211 @/var/folders/m4/k7gm01vx36xd0287m4rqvp3w0000gn/T/cp_azurz20bbi2s4v1pos1xo79gk.argfile com.interviews.nextrack.NextrackApplication
+1789359236517:gui
+1789359529658:cd /Users/poop/Documents/nextrack ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-25.jdk/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:63285 @/var/folders/m4/k7gm01vx36xd0287m4rqvp3w0000gn/T/cp_azurz20bbi2s4v1pos1xo79gk.argfile com.interviews.nextrack.NextrackApplication
+1789359546137:gui
+1789412353568:help
+1789412363472:dialog
+1789412675059:OA
+1789412677197:dialog
+1789413075354:gui
+1789416005058:cd /Users/poop/Documents/nextrack ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-25.jdk/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:65156 @/var/folders/m4/k7gm01vx36xd0287m4rqvp3w0000gn/T/cp_azurz20bbi2s4v1pos1xo79gk.argfile com.interviews.nextrack.NextrackApplication
+1789416017168:gui
+1789416766751:cd /Users/poop/Documents/nextrack ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-25.jdk/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:65322 @/var/folders/m4/k7gm01vx36xd0287m4rqvp3w0000gn/T/cp_azurz20bbi2s4v1pos1xo79gk.argfile com.interviews.nextrack.NextrackApplication
+1789416769320:gui
+1789494384617:add
+1789495016540:list
+1789495541812:add
+1789495567347:list
+1789495653768:add
+1789496338456:list
+1789496551588:add
+1789496563024:list
+1789499990179:add
+1789500003456:list
+1789500386014:add
+1789501329108:list
+1789501490238:edit
+1789502835932:list
+1789503217872:delete
+1789503224300:list
+1789503346580:delete
+1789503494607:list
+1789503526246:delete
+1789503605058:list
+1789503984670:edit
+1789503991178:help
+1789503995023:edit
+1789504788637:list
+1789505505454:edit
+1789505515908:list
+1789505668900:edit
+1789505675124:list
+1789505731670:delete
+1789505737657:list
+1789505745323:add
+1789505751642:list
+1789505799271:edit
+1789506498843:delete
+1789506604087:list
+1789506900569:toggle
+1789506989390:list
+1789506999350:toggle
+1789507003265:list
+1789507010316:toggle
+1789507014440:list
+1789507106513:add
+1789507113851:list
+1789507121417:toggle
+1789507124554:list
+1789507132882:delete
+1789507136001:list
+1789507313462:toggle
+1789507318592:list
+1789507326843:toggle
+1789507329660:list
+1789507997465:edit
+1789509249150:add
+1789509256597:list
+1789509263718:edit
+1789509342671:delete
+1789509345684:list
+1789509350179:delete
+1789510749056:edit
+1789510755797:list
+1789510764373:edit
+1789511226910:add
+1789511233500:list
+1789511238447:edit
+1789511244978:list
+1789512130361:add
+1789512136230:list
+1789512871123:add
+1789512879571:list
